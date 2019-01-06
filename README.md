@@ -18,4 +18,5 @@ above.
 Deep Q Learning is a branch of Reinforcement Learning that deals with problems using CNN as function approximator, we have implemented Deep Q-Learning for Pong game based application where we have trained the network to play againt a AI opponent. The codes for execution of the alogirthm for both Single Machine as well as distributed implementation for various model configurations has been uploaded on this repository, which is using PYGAME for creating the environment for execution.
 
 
-Distributed implimentation of Capsule Networks for deep RL is here https://github.com/Suraj-Panwar/Capsule_Network_based_Deep_Q_learning.git
+Distributed implimentation of Capsule Networks for deep RL is here 
+https://github.com/Suraj-Panwar/Capsule_Network_based_Deep_Q_learning.git
